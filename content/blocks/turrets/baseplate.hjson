@@ -1,4 +1,5 @@
-﻿reloadTime: 11
+name: Baseplate
+reloadTime: 11
 shootShake: 2
 range: 256
 recoilAmount: 3
